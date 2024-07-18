@@ -1,0 +1,137 @@
+Projection Operator
+
+ToList()
+Select()
+SelectMany() => join(), Distinct().
+
+Filtering Operator
+
+Where()	
+OfType()
+
+Set Operators
+
+Distinct()
+Union()
+Intersect
+Except
+Concat
+
+Ordering Operators
+
+OrderBy
+OrderByDescending
+ThenBy
+ThenByDescending
+Reverse
+
+Aggregate Operators
+
+Sum()
+Max()
+Min()
+Average()
+Count()
+Aggregate()
+
+
+Quantifiers Operators
+
+Any()
+All()
+Contains()
+
+
+Deferred Execution vs Immediate Execution in LINQ
+
+The LINQ queries are executed in two different ways, as follows.
+
+LINQ Deferred Execution
+LINQ Immediate Execution
+
+
+GroupBy()
+ToLookup()
+
+
+Joins
+
+-Inner Join => join()
+-Group Join => GroupJoin()
+-Left Outer Join => Join, Into, DefaultIfEmpty() 
+-Cross Join
+-Right Outer Join 
+-Full Outer Join => FullOuterJoin = LeftOuterJoin.Union(RightOuterJoin)
+
+Element Operators
+
+-First()
+-FirstOrDefault
+-Last
+-LastOrDefault
+-Single
+-SingleOrDefault
+-ElementAt
+-ElementAtOrDefault
+
+
+DefaultIfEmpty()
+
+SequenceEqual()
+
+
+Partitioning Method
+
+-Take
+-TakeWhile
+-Skip
+-SkipWhile
+
+
+Generation Operator
+
+-Range()
+-Repeat<T>()
+-Empty<T>()
+
+
+Append()
+Prepend()
+Zip()
+
+conversion operator category
+
+-List<int> numbersList = null;           
+ int[] numbersArray = numbersList.ToArray();
+ 
+-ToDictionary()
+-Cast()
+
+ 
+ 
+ 
+What Learn ClothBazar Project
+
+=> Ajax new structure based fire.
+=> ViewModel
+=> Signgolten Desing Pattern live use in project.
+=> Pager Use with own code.
+
+ 
+ 
+ 
+ 
+==>  Project Based Interview Question And Answer.
+
+Tell me about your current project
+
+Answer ==> currently i am working esic application wich is health domain project the purpose of this application
+provided health facilities of free which holder esic card. The technology for use angular for frontend 
+dot core for backend sql server for the database.
+
+
+==> What is your current role of this project.
+
+Answer ==> My work is development of this project and solve existing issue and add new funcnality based requirement of project
+some time work frontend some time work backend
+some time work database as depend on project requirement.
