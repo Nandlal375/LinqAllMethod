@@ -61,6 +61,7 @@ Joins
 -Left Outer Join => Join, Into, DefaultIfEmpty() 
 -Cross Join
 -Right Outer Join 
+-Include()
 -Full Outer Join => FullOuterJoin = LeftOuterJoin.Union(RightOuterJoin)
 
 Element Operators
